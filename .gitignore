@@ -1,0 +1,12 @@
+# 输出目录
+tingwu_exports/
+tingwu_markdown/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# macOS
+.DS_Store
